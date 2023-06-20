@@ -3,8 +3,8 @@
 The code was tested with the following environment: Ubuntu 18.04, python 3.7, pytorch 1.8.1, and CUDA 11.1.
 
 ## Backbone
-+ [x] DGCNN
-+ [x] CurveNet
++ [x] [DGCNN](https://github.com/muhanzhang/pytorch_DGCNN.git)
++ [x] [CurveNet](https://github.com/tiangexiang/CurveNet.git)
 
 ### Downstream Tasks
 
